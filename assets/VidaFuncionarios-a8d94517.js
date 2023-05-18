@@ -1,0 +1,1 @@
+import{_ as e,a as t}from"./CHeaderBar-cd568836.js";import{r as o,o as s,d as _,w as i,b as n}from"./index-72ab008f.js";const f={__name:"VidaFuncionarios",setup(r){const a=o("Calidad de vida de los funcionarios");return(c,l)=>(s(),_(e,null,{default:i(()=>[n(t,{title:a.value},null,8,["title"])]),_:1}))}};export{f as default};
