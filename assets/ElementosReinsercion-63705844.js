@@ -1,0 +1,1 @@
+import{_ as s,a as n}from"./CHeaderBar-fe0c343e.js";import{_}from"./ManagementXLS-f0d411e0.js";import{r as a,o,d as r,w as i,b as e}from"./index-22552132.js";const d={__name:"ElementosReinsercion",setup(c){const t=a("Elementos de reinserción");return(l,m)=>(o(),r(s,null,{default:i(()=>[e(n,{title:t.value},null,8,["title"]),e(_)]),_:1}))}};export{d as default};

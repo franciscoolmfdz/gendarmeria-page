@@ -1,0 +1,1 @@
+import{_ as a,a as _}from"./CHeaderBar-fe0c343e.js";import{_ as s}from"./ManagementXLS-f0d411e0.js";import{r,o as c,d as l,w as n,b as e}from"./index-22552132.js";const d={__name:"GestionCarcel",setup(o){const t=r("Gestión de la carcel");return(i,m)=>(c(),l(a,null,{default:n(()=>[e(_,{title:t.value},null,8,["title"]),e(s)]),_:1}))}};export{d as default};
