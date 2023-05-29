@@ -1,1 +1,0 @@
-import{_ as t,a as _}from"./CHeaderBar-fe0c343e.js";import{_ as o}from"./ManagementXLS-f0d411e0.js";import{r as s,o as i,d as n,w as r,b as a}from"./index-22552132.js";const p={__name:"VidaFuncionarios",setup(c){const e=s("Calidad de vida de los funcionarios");return(l,u)=>(i(),n(t,null,{default:r(()=>[a(_,{title:e.value},null,8,["title"]),a(o)]),_:1}))}};export{p as default};

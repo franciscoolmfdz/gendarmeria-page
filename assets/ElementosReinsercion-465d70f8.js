@@ -1,0 +1,1 @@
+import{_ as t,a as n}from"./CHeaderBar-ccedc968.js";import{r as s,o as _,d as a,w as o,b as r}from"./index-67a02a72.js";const f={__name:"ElementosReinsercion",setup(l){const e=s("Elementos de reinserción");return(c,i)=>(_(),a(t,null,{default:o(()=>[r(n,{title:e.value},null,8,["title"])]),_:1}))}};export{f as default};
