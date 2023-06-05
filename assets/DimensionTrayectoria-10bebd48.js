@@ -1,0 +1,1 @@
+import{r as t,o as a,d as _,w as n,_ as r,b as s}from"./index-89fd6ddf.js";import{_ as i}from"./CHeaderBar-c62d5ce6.js";const f={__name:"DimensionTrayectoria",setup(o){const e=t("Dimensión trayectoria");return(c,l)=>(a(),_(r,null,{default:n(()=>[s(i,{title:e.value},null,8,["title"])]),_:1}))}};export{f as default};
