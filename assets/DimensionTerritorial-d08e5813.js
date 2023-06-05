@@ -1,1 +1,0 @@
-import{r as t,o as r,d as a,w as i,_,b as n}from"./index-09a9f35e.js";import{_ as s}from"./CHeaderBar-37d3c184.js";const f={__name:"DimensionTerritorial",setup(o){const e=t("Dimensión territorial");return(l,c)=>(r(),a(_,null,{default:i(()=>[n(s,{title:e.value},null,8,["title"])]),_:1}))}};export{f as default};
