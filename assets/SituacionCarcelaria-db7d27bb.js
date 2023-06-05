@@ -1,1 +1,0 @@
-import{r as e,o as t,d as _,w as c,_ as r,b as i}from"./index-1b109198.js";import{_ as s}from"./CHeaderBar-8395545c.js";const m={__name:"SituacionCarcelaria",setup(l){const a=e("Estado de la situación carcelaria");return(n,o)=>(t(),_(r,null,{default:c(()=>[i(s,{title:a.value},null,8,["title"])]),_:1}))}};export{m as default};
