@@ -1,0 +1,1 @@
+import{r as t,o as a,e as _,w as s,_ as l,b as c}from"./index-9257cc1f.js";import{_ as n}from"./CHeaderBar-f6f0f2a1.js";const m={__name:"GestionCarcel",setup(r){const e=t("Gestión de la carcel");return(o,i)=>(a(),_(l,null,{default:s(()=>[c(n,{title:e.value},null,8,["title"])]),_:1}))}};export{m as default};
