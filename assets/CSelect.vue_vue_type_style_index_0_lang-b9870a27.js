@@ -1,0 +1,1 @@
+import{o,c as s,t as i}from"./index-c619b897.js";const l=["disabled"],u={__name:"CButton",props:{title:{type:String,required:!0},disabled:{type:Boolean,default:!1}},emits:["executeAction"],setup(e,{emit:n}){return(a,t)=>(o(),s("button",{class:"c-button",onClick:t[0]||(t[0]=c=>n("executeAction")),disabled:e.disabled},i(e.title),9,l))}};export{u as _};
