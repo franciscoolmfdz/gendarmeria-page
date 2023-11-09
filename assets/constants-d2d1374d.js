@@ -1,0 +1,1 @@
+const e=o=>["Sin estudios formales","Primero básico","Segundo básico","Tercero básico","Cuarto básico","Quinto básico","Sexto básico","Séptimo básico","Octavo básico","I medio","II medio","III medio","IV medio completo","Superior incompleta","Superior completa"][o];export{e as g};
