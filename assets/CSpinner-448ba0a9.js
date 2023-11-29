@@ -1,1 +1,0 @@
-import{o as t,c as n,a as o}from"./index-3d38bb09.js";const a={key:0,id:"cover-spin"},s={__name:"CSpinner",props:{activeSpin:{type:Boolean,default:!1}},setup(e){return(_,c)=>e.activeSpin?(t(),n("div",a)):o("",!0)}};export{s as _};
